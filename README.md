@@ -1,16 +1,31 @@
 
 ## Homework 1 Repository
 
-**Navigation**
+**Things to demonstrate**
 
- ....
+- Headers (see above)
+- Lists (here)
+- Links
+- Embedded Images
+- Tables
 
-Create a file called `README.md` and populate with Markdown. Demonstrate headers, lists, links, embedded images (by linking to images contained in the directory) and tables in this readme.
+**Links**
 
-Commit this file and publish to your public GitHub repository.
+This is the example [link](https://github.com/xinrayt/tfcb-homework01/tree/master/data) to the data folder in this repository.
 
-_Include the link to your `README.md` here._
+**Embedded Image**
 
-| Lecture | Date   | Instructor       | Topic                                                                           |
-| ------- | ------ | ---------------- | ------------------------------------------------------------------------------- |
-| 1       | Sep 30 | Rasi Subramaniam | [Introduction to course, markdown, git](lectures/lecture01/)                    |
+This is an image of a *Rhytidoponera metallica*.
+
+<img title="This is a Rhytidoponera-metallica" src="./image/casent0172345_Rhytidoponera-metallica.jpg" style="width:300px;margin:auto;"/>
+
+**Tables**
+
+This is numbered list of files in the source-code folder in table-format.
+
+| Name of file | Description         |
+| ------------ | ------------------- |
+| 1            | get_dataset.py      |
+| 2            | get-Species_list.py |
+| 3            | main.py             |
+| 4            | predict _ image.py  |
